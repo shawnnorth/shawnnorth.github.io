@@ -112,3 +112,13 @@ img.preview {
     max-height: 200px;
     margin-right: 5px;
 }
+
+section.model {
+    display: inline-block;
+    max-width: 30%;
+}
+
+section.model img {
+    max-height: 300px;
+    display: block;
+}
