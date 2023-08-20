@@ -1,5 +1,10 @@
 /* Generic Stylesheet */
 
+@font-face {
+    font-family: "Zilla-Slab";
+    src: url("/static/zilla-slab.ttf") format("truetype");
+}
+
 body {
     font-family: Helvetica, Arial, "sans-serif";
     background: #fdfdee;
@@ -27,7 +32,21 @@ header {
 }
 
 header h1 {
+    font-family: "Zilla-Slab";
+    font-size: 3em;
     margin-top: 0;
+}
+
+@media screen and (max-width: 600px) {
+    header h1 {
+        font-size: 2em;
+        text-align: center;
+        margin-top: .5em;
+        margin-bottom: .5em;
+    }
+    header h2 {
+        text-align: center;
+    }
 }
 
 header nav ul {
@@ -121,4 +140,20 @@ section.model {
 section.model img {
     max-height: 300px;
     display: block;
+}
+
+@media screen and (min-width: 601px) {
+    img.logo {
+        height: 200px;
+        float: right;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    img.logo {
+        height: 100px;
+        float: none;
+        display: block;
+        margin: auto;
+    }
 }
