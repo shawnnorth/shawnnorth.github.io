@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /static/
+
+Sitemap: https://www.gostosaeforte.com/sitemap.xml
