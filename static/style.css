@@ -10,6 +10,10 @@
     src: url("/static/archivonarrow.ttf") format("truetype");
 }
 
+html {
+    background: #AB1F1F;
+}
+
 body {
     font-family: Helvetica, Arial, "sans-serif";
     background: #F0E9EB;
