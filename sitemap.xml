@@ -615,6 +615,24 @@
     </url>
     <url>
         <loc>
+            https://www.gostosaeforte.com/page/101
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/page/102
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/page/103
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
             https://www.gostosaeforte.com/tag
         </loc>
         <changefreq>monthly</changefreq>
@@ -1192,6 +1210,18 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/tags/coxa/93
+        </loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/tags/coxa/94
+        </loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/tags/coxa/95
         </loc>
         <changefreq>daily</changefreq>
     </url>
@@ -1827,6 +1857,18 @@
     </url>
     <url>
         <loc>
+            https://www.gostosaeforte.com/tags/biquini/60
+        </loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/tags/biquini/61
+        </loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>
             https://www.gostosaeforte.com/tags/peito
         </loc>
         <changefreq>daily</changefreq>
@@ -2140,6 +2182,18 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/tags/peito/52
+        </loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/tags/peito/53
+        </loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/tags/peito/54
         </loc>
         <changefreq>daily</changefreq>
     </url>
@@ -2601,6 +2655,12 @@
     </url>
     <url>
         <loc>
+            https://www.gostosaeforte.com/tags/abdomem/45
+        </loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>
             https://www.gostosaeforte.com/tags/maio
         </loc>
         <changefreq>daily</changefreq>
@@ -2686,6 +2746,12 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/tags/maio/14
+        </loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/tags/maio/15
         </loc>
         <changefreq>daily</changefreq>
     </url>
@@ -2908,6 +2974,12 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/tags/muque/24
+        </loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/tags/muque/25
         </loc>
         <changefreq>daily</changefreq>
     </url>
@@ -3351,6 +3423,12 @@
     </url>
     <url>
         <loc>
+            https://www.gostosaeforte.com/tags/ombro/46
+        </loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>
             https://www.gostosaeforte.com/tags/saia
         </loc>
         <changefreq>daily</changefreq>
@@ -3390,6 +3468,60 @@
             https://www.gostosaeforte.com/modelos
         </loc>
         <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/cintia-laurindo
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/michelle-morais
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/luciana-pessanha
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/ieda-reis
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/camila-rodrigues
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/flavia-wellness
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/rayanne-oliveira
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/rafa-carandina
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/iara-guimaraes
+        </loc>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>
@@ -3508,12 +3640,6 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/modelos/marhi-santos
-        </loc>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>
-            https://www.gostosaeforte.com/modelos/1
         </loc>
         <changefreq>monthly</changefreq>
     </url>
@@ -3711,6 +3837,12 @@
     </url>
     <url>
         <loc>
+            https://www.gostosaeforte.com/modelos/iane-lira
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
             https://www.gostosaeforte.com/modelos/jessica-oliveira
         </loc>
         <changefreq>monthly</changefreq>
@@ -3735,12 +3867,6 @@
     </url>
     <url>
         <loc>
-            https://www.gostosaeforte.com/modelos/iane-lira
-        </loc>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>
             https://www.gostosaeforte.com/modelos/mariana-saad
         </loc>
         <changefreq>monthly</changefreq>
@@ -3760,12 +3886,6 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/modelos/caroline-sanches
-        </loc>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>
-            https://www.gostosaeforte.com/modelos/ni-motta
         </loc>
         <changefreq>monthly</changefreq>
     </url>
@@ -3808,6 +3928,12 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/modelos/natacha-almeida-torres
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/ni-motta
         </loc>
         <changefreq>monthly</changefreq>
     </url>
@@ -4095,6 +4221,12 @@
     </url>
     <url>
         <loc>
+            https://www.gostosaeforte.com/modelos/samydta
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
             https://www.gostosaeforte.com/modelos/rhay-dangelo
         </loc>
         <changefreq>monthly</changefreq>
@@ -4210,6 +4342,12 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/modelos/mel-schulthais
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/1
         </loc>
         <changefreq>monthly</changefreq>
     </url>
@@ -4341,13 +4479,13 @@
     </url>
     <url>
         <loc>
-            https://www.gostosaeforte.com/modelos/altemira-schliebe
+            https://www.gostosaeforte.com/modelos/mari-carvalho
         </loc>
         <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>
-            https://www.gostosaeforte.com/modelos/mari-carvalho
+            https://www.gostosaeforte.com/modelos/altemira-schliebe
         </loc>
         <changefreq>monthly</changefreq>
     </url>
@@ -4377,12 +4515,6 @@
     </url>
     <url>
         <loc>
-            https://www.gostosaeforte.com/modelos/samydta
-        </loc>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>
             https://www.gostosaeforte.com/modelos/priscila-duarte
         </loc>
         <changefreq>monthly</changefreq>
@@ -4396,12 +4528,6 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/modelos/debora-maia
-        </loc>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>
-            https://www.gostosaeforte.com/modelos/lumije
         </loc>
         <changefreq>monthly</changefreq>
     </url>
@@ -4485,6 +4611,12 @@
     </url>
     <url>
         <loc>
+            https://www.gostosaeforte.com/modelos/2
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
             https://www.gostosaeforte.com/modelos/kenia-frugone
         </loc>
         <changefreq>monthly</changefreq>
@@ -4528,12 +4660,6 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/modelos/andreia-santos
-        </loc>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>
-            https://www.gostosaeforte.com/modelos/4
         </loc>
         <changefreq>monthly</changefreq>
     </url>
@@ -4611,6 +4737,12 @@
     </url>
     <url>
         <loc>
+            https://www.gostosaeforte.com/modelos/day-dias
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
             https://www.gostosaeforte.com/modelos/renata-sales
         </loc>
         <changefreq>monthly</changefreq>
@@ -4648,18 +4780,6 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/modelos/tamy-giannucci
-        </loc>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>
-            https://www.gostosaeforte.com/modelos/day-dias
-        </loc>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>
-            https://www.gostosaeforte.com/modelos/kati-glessi
         </loc>
         <changefreq>monthly</changefreq>
     </url>
@@ -4743,6 +4863,12 @@
     </url>
     <url>
         <loc>
+            https://www.gostosaeforte.com/modelos/lumije
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
             https://www.gostosaeforte.com/modelos/vitoria-gomes
         </loc>
         <changefreq>monthly</changefreq>
@@ -4785,12 +4911,6 @@
     </url>
     <url>
         <loc>
-            https://www.gostosaeforte.com/modelos/pati-bara
-        </loc>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>
             https://www.gostosaeforte.com/modelos/daiana-del-puppo
         </loc>
         <changefreq>monthly</changefreq>
@@ -4798,6 +4918,18 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/modelos/ana-bahiense
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/kati-glessi
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/pati-bara
         </loc>
         <changefreq>monthly</changefreq>
     </url>
@@ -4858,6 +4990,12 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/modelos/gabi-dezan
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/3
         </loc>
         <changefreq>monthly</changefreq>
     </url>
@@ -5103,13 +5241,13 @@
     </url>
     <url>
         <loc>
-            https://www.gostosaeforte.com/modelos/michelle-gadelha
+            https://www.gostosaeforte.com/modelos/milena-monteiro
         </loc>
         <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>
-            https://www.gostosaeforte.com/modelos/milena-monteiro
+            https://www.gostosaeforte.com/modelos/michelle-gadelha
         </loc>
         <changefreq>monthly</changefreq>
     </url>
@@ -5157,12 +5295,6 @@
     </url>
     <url>
         <loc>
-            https://www.gostosaeforte.com/modelos/janaina-leo
-        </loc>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>
             https://www.gostosaeforte.com/modelos/luciane-hoepers
         </loc>
         <changefreq>monthly</changefreq>
@@ -5188,6 +5320,12 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/modelos/andrea-borges
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/janaina-leo
         </loc>
         <changefreq>monthly</changefreq>
     </url>
@@ -5284,12 +5422,6 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/modelos/biah-quiles
-        </loc>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>
-            https://www.gostosaeforte.com/modelos/2
         </loc>
         <changefreq>monthly</changefreq>
     </url>
@@ -5421,12 +5553,6 @@
     </url>
     <url>
         <loc>
-            https://www.gostosaeforte.com/modelos/3
-        </loc>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>
             https://www.gostosaeforte.com/modelos/simone-sousa
         </loc>
         <changefreq>monthly</changefreq>
@@ -5494,6 +5620,12 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/modelos/thaise-perichi
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/4
         </loc>
         <changefreq>monthly</changefreq>
     </url>
@@ -5644,6 +5776,12 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/modelos/18
+        </loc>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/modelos/19
         </loc>
         <changefreq>monthly</changefreq>
     </url>
@@ -11644,6 +11782,144 @@
     <url>
         <loc>
             https://www.gostosaeforte.com/images/999
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1000
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1001
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1002
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1003
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1004
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1005
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1006
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1007
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1008
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1009
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1010
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1011
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1012
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1013
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1014
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1015
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1016
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1017
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1018
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1019
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1020
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1021
+        </loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>
+            https://www.gostosaeforte.com/images/1022
         </loc>
         <changefreq>weekly</changefreq>
     </url>
